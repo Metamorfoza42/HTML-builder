@@ -1,9 +1,3 @@
-# **Проверьте, пожалуйста, таск 25.01.24 после 18:00 по Москве, или напишите мне, когда вам удобно это сделать**
-
-Мои контакты: Telegram - [@Yury785](https://t.me/Yury785), Discord - [metamorfoza007](https://discord.com/users/220167149979697153)
-
----
-
 ## Reading a File with Console Output
 
 In the file `index.js` within the directory `01-read-file`, develop a script that outputs the contents of the file `text.txt` to the console.

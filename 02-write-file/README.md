@@ -1,3 +1,9 @@
+# **Проверьте, пожалуйста, таск 25.01.24 после 18:00 по Москве, или напишите мне, когда вам удобно это сделать**
+
+Мои контакты: Telegram - [@Yury785](https://t.me/Yury785), Discord - [metamorfoza007](https://discord.com/users/220167149979697153)
+
+---
+
 ## Writing Console Input to File
 
 In the `index.js` file in the `02-write-file` directory, develop a script that outputs a greeting to the console, waits for text input, and writes the entered text to a file.
