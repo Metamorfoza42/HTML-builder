@@ -1,8 +1,4 @@
-# **Проверьте, пожалуйста, таск 25.01.24 после 18:00 по Москве, или напишите мне, когда вам удобно это сделать**
-
-**Сейчас готовы**: 01-read-file, 02-write-file, 03-files-in-folder
-
-Мои контакты: Telegram - [@Yury785](https://t.me/Yury785), Discord - [metamorfoza007](https://discord.com/users/220167149979697153)
+## Мои контакты: Telegram - [@Yury785](https://t.me/Yury785), Discord - [metamorfoza007](https://discord.com/users/220167149979697153)
 
 ---
 
